@@ -85,11 +85,11 @@ Our vision is to transform the hackathon ecosystem by creating a trustless, tran
 
 ### Testnet
 ```
-Contract Address:0x4c8482749048dedcc4b472beaa536876a67b1a435797b0757bfb4638c989c002
+Contract Address:0x8842b0e5faf43916e2aaba5a8b4d4739dc7a085a585a4bb488410e0ccdb59bf9
 Network: Aptos Testnet
 Module: MyModule::HackathonBountyBoard
 ```
-<img width="1893" height="905" alt="image" src="https://github.com/user-attachments/assets/2393b9a9-effc-48a8-8cae-b61df9ceef50" />
+
 
 > **Note**: Contract addresses will be updated upon deployment. Please refer to our official documentation or GitHub releases for the latest verified contract addresses.
 
